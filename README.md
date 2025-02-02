@@ -17,7 +17,8 @@ This dashboard provides a comprehensive analysis of the COVID-19 pandemic in Ind
 2. It provides navigation buttons to two key dashboards:
       1. COVID-19 Dashboard – Focuses on case statistics and demographic insights.
       2. Labs & Testing Dashboard – Covers vaccination and testing data.
-![covid 19](https://github.com/user-attachments/assets/7a804fdb-48e2-4218-91e7-e3ce8aa7bfb3)
+<img width="900" alt="Home Page" src="https://github.com/user-attachments/assets/41cc62f1-01d7-4741-a36b-bc09f84ccc89" />
+
 
 
 
