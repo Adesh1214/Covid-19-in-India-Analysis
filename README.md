@@ -13,8 +13,8 @@ This dashboard provides a comprehensive analysis of the COVID-19 pandemic in Ind
 
 
 # 1. Landing Page - :
-1.The Home Page serves as an entry point with an impactful visual design, featuring the Indian flag and virus illustrations to set the theme.
-It provides navigation buttons to two key dashboards:
+1. The Home Page serves as an entry point with an impactful visual design, featuring the Indian flag and virus illustrations to set the theme.
+2. It provides navigation buttons to two key dashboards:
       1. COVID-19 Dashboard – Focuses on case statistics and demographic insights.
       2. Labs & Testing Dashboard – Covers vaccination and testing data.
 ![covid 19](https://github.com/user-attachments/assets/7a804fdb-48e2-4218-91e7-e3ce8aa7bfb3)
